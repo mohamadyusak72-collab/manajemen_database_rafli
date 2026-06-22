@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen Data Mahasiswa",
+  "description": "Sistem informasi modern serta laboratorium visual untuk pengelolaan data mahasiswa, algoritma pencarian dan pengurutan, simulasi OOP, serta validasi regex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
